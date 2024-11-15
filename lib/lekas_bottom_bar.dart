@@ -1,5 +1,5 @@
 library lekas_bottom_bar;
 
-export 'src/lekas_bottom_bar.dart';
-export 'src/lekas_bottom_bar_item.dart';
+export 'src/island_bar/island_bar.dart';
+export 'src/island_bar/island_bar_item.dart';
 
