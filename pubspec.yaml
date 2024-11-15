@@ -1,7 +1,7 @@
 name: lekas_bottom_bar
 description: "A new Flutter project."
-version: 0.0.1
-homepage:
+version: 0.1.0
+homepage: https://github.com/LekasNet/lekas_bottom_bar
 
 environment:
   sdk: ^3.5.3
